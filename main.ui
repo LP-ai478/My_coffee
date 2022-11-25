@@ -36,7 +36,7 @@
    <property name="geometry">
     <rect>
      <x>30</x>
-     <y>180</y>
+     <y>160</y>
      <width>391</width>
      <height>191</height>
     </rect>
@@ -46,8 +46,8 @@
    <property name="geometry">
     <rect>
      <x>30</x>
-     <y>100</y>
-     <width>381</width>
+     <y>90</y>
+     <width>391</width>
      <height>31</height>
     </rect>
    </property>
@@ -56,7 +56,7 @@
    <property name="geometry">
     <rect>
      <x>30</x>
-     <y>80</y>
+     <y>70</y>
      <width>61</width>
      <height>20</height>
     </rect>
@@ -72,7 +72,7 @@
    <property name="geometry">
     <rect>
      <x>30</x>
-     <y>160</y>
+     <y>140</y>
      <width>61</width>
      <height>20</height>
     </rect>
@@ -87,14 +87,27 @@
   <widget class="QPushButton" name="pushButton">
    <property name="geometry">
     <rect>
-     <x>334</x>
-     <y>140</y>
+     <x>340</x>
+     <y>130</y>
      <width>81</width>
      <height>23</height>
     </rect>
    </property>
    <property name="text">
     <string>Найти</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>360</y>
+     <width>101</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Редактировать</string>
    </property>
   </widget>
  </widget>
